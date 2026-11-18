@@ -1,6 +1,16 @@
 # Rollcall Attendance
 
+A React and FastAPI attendance app for administrators and teachers. Admins manage students and classes, create teacher accounts, assign teachers, and enroll students. Teachers take attendance and review reports for their assigned classes. Archived records retain their history.# Rollcall Attendance
+
 A React and FastAPI attendance app for administrators and teachers. Admins manage students and classes, create teacher accounts, assign teachers, and enroll students. Teachers take attendance and review reports for their assigned classes. Archived records retain their history.
+
+## Live Demo
+
+[View Rollcall](https://rollcall-attendance-9na3.onrender.com/)
+
+## Run locally
+
+Requires Node.js 22.12+ and Python 3.11+. SQLite is the local default. Set DATABASE_URL if you have a local PostgreSQL server.
 
 ## Run locally
 
